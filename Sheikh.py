@@ -1,1 +1,1 @@
-import KHORSED
+import Game
